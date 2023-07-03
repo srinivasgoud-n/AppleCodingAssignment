@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T19:00:12 IST" name="Default suite" finished-at="2023-07-03T19:00:54 IST" duration-ms="41290">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T19:00:12 IST" name="Default test" finished-at="2023-07-03T19:00:54 IST" duration-ms="41290">
+      <class name="com.qa.apple.test.automation.testscripts.Test_AppleDev">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:13 IST" name="setup" finished-at="2023-07-03T19:00:19 IST" duration-ms="6734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01()[pri:1, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:19 IST" name="tc_01" finished-at="2023-07-03T19:00:19 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:19 IST" name="tearDown" finished-at="2023-07-03T19:00:20 IST" duration-ms="232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_01 status=SUCCESS method=Test_AppleDev.tc_01()[pri:1, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@24e83d19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:20 IST" name="setup" finished-at="2023-07-03T19:00:24 IST" duration-ms="4351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_02()[pri:2, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:24 IST" name="tc_02" finished-at="2023-07-03T19:00:25 IST" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:25 IST" name="tearDown" finished-at="2023-07-03T19:00:25 IST" duration-ms="295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_02 status=SUCCESS method=Test_AppleDev.tc_02()[pri:2, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@24e83d19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:25 IST" name="setup" finished-at="2023-07-03T19:00:30 IST" duration-ms="4603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_03()[pri:3, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:30 IST" name="tc_03" finished-at="2023-07-03T19:00:31 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:31 IST" name="tearDown" finished-at="2023-07-03T19:00:31 IST" duration-ms="239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_03 status=SUCCESS method=Test_AppleDev.tc_03()[pri:3, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@24e83d19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:31 IST" name="setup" finished-at="2023-07-03T19:00:35 IST" duration-ms="4308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_04()[pri:4, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:35 IST" name="tc_04" finished-at="2023-07-03T19:00:36 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:36 IST" name="tearDown" finished-at="2023-07-03T19:00:36 IST" duration-ms="270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_04 status=SUCCESS method=Test_AppleDev.tc_04()[pri:4, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@24e83d19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:36 IST" name="setup" finished-at="2023-07-03T19:00:40 IST" duration-ms="4285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_05()[pri:5, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:40 IST" name="tc_05" finished-at="2023-07-03T19:00:42 IST" duration-ms="1207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_05 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:42 IST" name="tearDown" finished-at="2023-07-03T19:00:42 IST" duration-ms="308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_05 status=SUCCESS method=Test_AppleDev.tc_05()[pri:5, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@24e83d19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:42 IST" name="setup" finished-at="2023-07-03T19:00:48 IST" duration-ms="5863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_06()[pri:6, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:48 IST" name="tc_06" finished-at="2023-07-03T19:00:48 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_06 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:48 IST" name="tearDown" finished-at="2023-07-03T19:00:48 IST" duration-ms="406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_06 status=SUCCESS method=Test_AppleDev.tc_06()[pri:6, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@24e83d19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:48 IST" name="setup" finished-at="2023-07-03T19:00:53 IST" duration-ms="4105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_07()[pri:7, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:53 IST" name="tc_07" finished-at="2023-07-03T19:00:53 IST" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_07 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8]" started-at="2023-07-03T19:00:53 IST" name="tearDown" finished-at="2023-07-03T19:00:54 IST" duration-ms="351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_07 status=SUCCESS method=Test_AppleDev.tc_07()[pri:7, instance:com.qa.apple.test.automation.testscripts.Test_AppleDev@1ab3a8c8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@24e83d19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.apple.test.automation.testscripts.Test_AppleDev -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
